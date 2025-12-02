@@ -6,7 +6,9 @@ using namespace std;
 
 Retangulo::Retangulo(int l, int a) : largura(l), altura(a) {}
 
-
+Retangulo::~Retangulo() {
+    cout << "O retângulo foi deletado!" << endl;
+}
 
 
 

@@ -10,7 +10,9 @@ private:
 public:
     
     Retangulo(int l, int a);
-    ~Retangulo(); 
+
+    ~Retangulo();
+ 
     
     int obterLargura() const;
     int obterAltura() const;

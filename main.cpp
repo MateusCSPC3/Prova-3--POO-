@@ -57,8 +57,6 @@ int main() {
     ret_original.renderizar(); 
     
     
-    
-    cout << "O Retangulo foi deletado"; 
 
     return 0; 
 }
